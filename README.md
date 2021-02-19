@@ -9,3 +9,7 @@ If you have an old Oculus DK2 and in 2021 or beyond do you want to setup a worki
 - LeapMotion_CoreAsset_Orion_4.1.4_0253ddb
 
 Download the Installers From the Installers Folder.
+
+# Disclaimer
+
+All this files are public in 2021, Download at your discretion from here. I'm just gathering in a public repo to help other researches with old Oculus DK2 as me to easily start a project.
