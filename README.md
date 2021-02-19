@@ -23,13 +23,13 @@ Download the Installers From the releases section here: https://github.com/gisle
 9. Close the Config Tool
 10. If was working then Open Unity
 11. Create a new 3D Project
-12. Go To Edit > Project Settings > Player > Other Settings
+12. Go To ***Edit > Project Settings > Player > Other Settings***
 13. Check the "Virtual Reality Supported" option
 14. Start the scene with play (Oculus should work now)
 15. Stop the scene
 16. If everything was working then import the Leap Motion Core Assets Orion to your unity project
 17. Wait until imports ends.
-18. Open the Leap Motion Hands VR Scene in Assets/LeapMotion/Scenes
+18. Open the Leap Motion Hands VR Scene in ***Assets/LeapMotion/Scenes***
 19. Add some blank cubes and plain to your scene for perpective
 20. Put you oculus and leap motion (attached as VR to the HMD)
 21. Press Play.
