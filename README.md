@@ -29,7 +29,7 @@ Download the Installers From the releases section here: https://github.com/gisle
 15. Stop the scene
 16. If everything was working then import the Leap Motion Core Assets Orion to your unity project
 17. Wait until imports ends.
-18. Open the Leap Motion Hands VR Scene in ***Assets/LeapMotion/Scenes***
+18. Open the "Leap Motion Hands VR" Scene in ***Assets/LeapMotion/Scenes***
 19. Add some blank cubes and plain to your scene for perpective
 20. Put you oculus and leap motion (attached as VR to the HMD)
 21. Press Play.
